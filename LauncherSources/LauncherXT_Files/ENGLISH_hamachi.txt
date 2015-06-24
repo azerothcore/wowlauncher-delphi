@@ -1,0 +1,22 @@
+       PLEASE READ THIS GUIDE!
+
+# Once setup has finished, Hamachi detects if you are running the program for the first time and will run a Quick Guide for new users to acquaint themselves with the program basics. By following this guide, you will be set up with a Hamachi address.
+
+NOTE: Once recorded  will be assigned to you a number that will be visualized on the top of hamachi window (like this:5.49.162.83). If this happens it means that you have been connected to Hamachi!
+
+# The next step is to click on the Networks button. In the menu that appears, select Join existing network.
+
+# Then you must insert the "Network name" and the "Network password" of your realm
+
+
+ 
+RULES:
+
+# generally it is prohibited to be connected at 2 or more Hamachi networks of the same realm (this embezzles space for the new users)
+NOTE: ALL users of ALL networks of the same realm will be logged in the SAME WOW realm when you are playing! 
+
+# The Admins, sometimes, make a cleaning of hamachi networks, this means the networks will be reset and you must "rejoin" the network whenever the cleaning is carried out.
+
+
+visit hamachi site on 
+https://secure.logmein.com/products/hamachi/ 

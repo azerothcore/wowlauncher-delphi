@@ -1,0 +1,29 @@
+       LEGGERE ATTENTAMENTE QUESTA GUIDA!
+
+# Una volta installato *hamachi cliccate sul pulsante on; (il simbolo è simile a quello del telecomando della televisione!) vi dirà che non avete un nome e una password, allora cliccate su ok e ne inserite uno a vostra scelta.
+
+NOTA: Una volta registrati vi verrà assegnato un numero che verrà visualizzato in alto(tipo questo:5.49.162.83). Se ciò accade vuol dire che vi siete connessi ad Hamaci. A questo punto cliccate sul pulsante che ha come simbolo un triangolo e cliccate su "unisciti ad una nuova rete".
+
+
+#inserite poi i dati forniti dal vostro reame
+
+Nome Rete: 
+Password:  
+
+
+REGOLE:
+# Generalmente e' vietato essere collegati a 2 o più stanze Hamachi appartenenti allo stesso reame (questo sottrae spazio ai nuovi arrivati).
+
+NOTA: E' importante sapere infatti che non è necessario essere nella stessa stanza di un altro utente per poter giocare insieme con lui, una volta loggati in gioco tutti gli utenti di tutte le stanze si ritroveranno nello stesso mondo.
+
+# Per una maggiore protezione del vostro PC da attacchi esterni andate su "Preferenze" -> "Sicurezza" e mettete un segno di spunta sulla casella: "Blocca servizi Microsoft Windows Vulnerabili".
+
+# Gli admin, ogni tanto, potrebbero effettuare una pulizia delle stanze di hamachi, ciò significa che saranno resettate e bisogna quindi ricollegarsi alla stanza ogni qualvolta la pulizia viene effettuata.
+
+visita il sito di hamachi 
+
+ufficiale:
+https://secure.logmein.com/products/hamachi/  
+
+non ufficiale:
+http://www.hamachi.it/   

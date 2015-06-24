@@ -1,0 +1,22 @@
+       LEIA ESTE GUIA!
+
+# Uma vez concluída a instalação, Hamachi detecta se você está a executar o programa pela primeira vez e decorrerá um Guia Rápido para os novos utilizadores se familiarizarem com o programa. Ao seguir este guia, irá ser criado com um endereço Hamachi.
+
+NOTA: Uma vez registado ser-lhe-á atribuído um número que será visualizado no topo da janela do Hamachi (como este:5.49.162.83). Se isso acontecer, significa que está ligado ao Hamachi!
+
+# O próximo passo é clicar no botão de redes. No menu que aparece, seleccione juntar-se a uma rede existente.
+
+# Então deve inserir o "Nome de rede" e "senha de rede" de seu realm
+
+
+ 
+REGRAS:
+
+# geralmente é proibido estar ligado a 2 ou mais redes Hamachi do mesmo realm (isto ocupa espaço para novos utilizadores)
+NOTA: Todos os utilizadores de todas as redes do mesmo realm estarão registados no mesmo realm de WOW onde está a jogar! 
+
+# Os Administradores, por vezes, fazem uma limpeza das redes Hamachi, isto significa que a rede será re-iniciada e deve "voltar" à rede sempre que a limpeza é realizada.
+
+
+Visite o site Hamashi em
+https://secure.logmein.com/products/hamachi/ 

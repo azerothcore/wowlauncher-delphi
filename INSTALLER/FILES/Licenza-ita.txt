@@ -1,0 +1,38 @@
+                                          <Launcher-XT>
+
+
+SETUP by: HW2-Yehonal
+
+IMPORTANTE - LEGGERE CON ATTENZIONE: questa patch è NECESSARIA per giocare nei nostri reami.
+LICENZA PER IL PRODOTTO SOFTWARE
+
+Il presente PRODOTTO SOFTWARE è distribuito con licenza freeware.
+
+1. CONCESSIONE DI LICENZA. Il presente Contratto concede all'utente i seguenti diritti:
+
+* Installazione e utilizzo del Software. L'utente può installare e utilizzare il PRODOTTO SOFTWARE sul proprio COMPUTER. 
+
+* Copia di backup. l'utente potrà creare una o più copie di backup del PRODOTTO SOFTWARE al fine di distribuirlo a terzi, purché il tutto non sia soggetto ad alcuna forma di pagamento e il PRODOTTO non venga alterato in alcuna delle sue parti.
+
+2. COPYRIGHT. La titolarità e i diritti di proprietà intellettuale relativi al PRODOTTO SOFTWARE (ivi inclusi, ma non limitatamente a, ogni immagine, fotografia, animazione, video, audio, musica, e testo integrati al PRODOTTO SOFTWARE), sono di proprietà di UDW. I diritti riguardanti l’installazione automatica, lo script di automatizzazione della stessa e gli algoritmi di verifica versione sono invece di proprietà di Barahir Stormbringer e Yehonal Yéhtaner.
+
+3. SUPPORTO TECNICO. UDW fornisce servizio di supporto tecnico LIMITATO per il PRODOTTO SOFTWARE, attraverso il forum (< http://udw.altervista.org >) e il sistema di ticket utilizzato in game. Per informazioni sul supporto tecnico, contattare i GM. Per ogni quesito riguardante il presente Contratto o se si desidera contattare i GM, fare riferimento al forum sopracitato.
+
+PER I LIMITI DI GARANZIA E LE DISPOSIZIONI SPECIALI APPLICABILI, CONSULTARE L'ALLEGATO "LIMITI DI GARANZIA" 
+
+
+ALLEGATO: LIMITI DI GARANZIA
+
+ESCLUSIONE DI RESPONSABILITÀ PER DANNI INDIRETTI. - In nessun caso UDW, Hw2-Yehonal (autore del presente setup) o i loro diretti collaboratori saranno responsabili per i danni (inclusi, senza limitazioni, il danno all'integrità fisica nonché il danno per perdita o mancato guadagno, interruzione dell'attività, perdita di informazioni o altre perdite economiche) derivanti dall'uso o dall'abuso di questo prodotto, anche nel caso in cui UDW sia stata avvertita della possibilità di tali danni. 
+
+
+CONDIZIONI PARTICOLARI
+
+Distribuzione. L'utente non è autorizzato a distribuire il presente prodotto a pagamento, poiché lo stesso è di natura FREEWARE e non dev’essere pertanto soggetto ad alcuna forma di distribuzione commerciale
+
+
+HW2-Yehonal (autore del presente setup)
+
+
+
+Note: No one from Blizzard, associated with Blizzard or any such affiliated company or anyone directed by Blizzard or its Related companies is permitted to use this 

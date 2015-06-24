@@ -1,0 +1,358 @@
+CONGRATULATIONS! YOU HAVE SUCCESSFULLY INSTALLED THE LAUNCHER-XT, and now you are ready to make the last steps to join your community!
+
+	
+=============================================================================================================================
+
+Changelogs :
+
+________________________________________
+v2.2.0.85                               | 06-09-09
+________________________________________
+
++ disabled FIRST START option at Launcher-XT setup ( it appears only if the Launcher cannot find the .ini file )
++ added some information subsections.
++ moved UDW updates informations into information menu.
++ fixed a critical error on multi-ping procedure ( in vista you should start the launcher with Admin privileges).
++ added language support for the configuration game page.
++ added cleaning cache support for PRE-BC clients.
++ implemented official server selector in realmlist configurations.
++ other various fixes
+
+
+________________________________________
+v2.1.1.80                               | 31-07-09
+________________________________________
+
+
++ Implemented Server List page in Configuration Window that contains a list with infos of all server published on udw.altervista.org
++ Changed the caption bar of the Launcher mainpage with a customized one.
++ Fixed the tray button in title bar
++ Fixed a critical bug with web thread execution
++ Fixed the config.wtf managing with OLD 1.x clients
++ Fixed a critical bug into setup when it doesn't find setup files ( sometimes with archives )
++ other minor fixes
+
+
+
+________________________________________
+v2.1.0.70                               | 26-07-09
+________________________________________
+
+* NEW 2.1 released!
+
++ Rewritten webside procedures , now executed in a separated thread ( it speed up the application start by 200%!)
++ fixed the mexage loop on status timer countdown refresh
++ added icon in title bar to minimize the launcher in the tray
++ added client version specification in title bar
++ implemented a control that check if your launcher has been moved in another folder from last use , then it sets default paths advanced configurations. 
++ other various fixes
+
+
+________________________________________
+v2.0.9.60                               | 28-05-09
+________________________________________
+
++ Fixed a critical error when the launcher can't connect to the web
++ Speed up a bit the code.
++ fixed a initialization bug about the necessary links for udw 
+
+________________________________________
+v2.0.9.56                               | 27-05-09
+________________________________________
+
++ Added an option to choose to remove XT-Realms and LauncherXT.ini at uninstall.  
++ Renamed the .ini name from "Launcher" to "LauncherXT". You have to re-configure your settings.
++ Changed the default configurations for "personal settings" 
++ some changes to the Defaultdirname for the setup
+
+________________________________________
+v2.0.9.55                               | 26-05-09
+________________________________________
+
++ Some minor fixes and cleaned up the code a bit
+
+________________________________________
+v2.0.8.53                               | 24-05-09
+________________________________________
+
++ some changes to the inform.ini  ( read the tutorial)
++ changed the main web page of the launcher from launcher.htm to the generic index file to support also .html and .php formats ( rename your launcher.htm !)
++ locked the realmlist in default setting
++ added VALUES file that contains the version of your distribution mods 
++ implemented new mods version checking ( read the tutorial on the udw site )
++ added portuguese translation 
++ modified the structure of information page.
++ fixed a bug on the shoutbox handle 
++ added a version control in the advanced configuration that check if your launcher version is update with the udw releases.
++ implemented the support to specify the client version of each REALM ( read the tutorial )
++ implemented the language list to support the words in native language 
++ other various fixes.
+
+________________________________________
+v2.0.7.47                               | 16-05-09
+________________________________________
+
++ fixed an annoying bug of the message dialogs that affect the launcher browser.
++ corrected way to assign the version to the application.
+
+________________________________________
+v2.0.6.7                                | 15-05-09
+________________________________________
+
+* i'll write my next changelogs in english for international users :) 
+
++ added a tray icon to minimize the launcher and manage it from the tray ( the play button in the tray icon doesn't close the launcher on click)
++ Cleaned and Speedup the sources
++ fixed an issue with messages box
++ Various minor fixes
+
+
+
+________________________________________
+v2.0.5.5                                | 12-05-09
+________________________________________
+
+
+*Molti fixes non saranno riportati in questo changelog in quanto sono state apportate molteplici modifiche non appuntate.
+
++ nuova funzionalità di modifica realmlist direttamente dall'index del Launcher.dpr
++ Aggiunto sistema di gestione realmlist che comprende la possibilità di inserire la descrizione e il sito
++ Riscritto il codice che gestisce il ping e il controllo dello stato del reame, le operazioni vengono eseguite su un thread a parte senza bloccare gli altri processi del launcher durante l'esecuzione.
++ nuova interfaccia grafica indirizzata al custom
++ ridotte le dimensioni dell'applicativo di circa 1/3
++ Fixati bugs relativi alla trasparenza
++ Nuovo sistema per la gestione dei percorsi
++ sistemati i pulsanti di modifica delle configurazioni , utilizzati bmpbtn .
++ cambiata la gestione delle impostazioni generali con un pannello di radiobox
++ implementata una nuova scheda per la gestione delle configurazioni del game ( grafica , suoni ecc) attualmente in beta test.
++ aggiornata la gestione degli url di navigazione del Launcher
++ aggiornata la gestione del realmlist per supportare _anche_ le versioni superiori alla patch 3.x del client.
++ creato sistema per la gestione delle configurazioni wtf ( stile ini file )
++ Modificata radicalmente la struttura del codice ( licenza GNU aggiunta )
++ Molti altri fixes e migliorie.
++ Eliminato il WTF path dalle configurazioni avanzate ( opzione obsoleta )
++ Implementato un nuovo sistema per la gestione dei file di informazione del launcher
++ eliminati i mods obsoleti
++ nuove modifiche cosmetiche
++ Fixato problema "drawing Canvas" che affliggeva i messaggi a video eseguiti nei threads secondari.
++ Fixata l'annullamento della trasparenza.
+
+
+
+________________________________________
+v2.0.1.2                                | 26-01-09
+________________________________________
+
++ Fixata la funzione di chiusura applicazione sugli errori di linguaggio
++ Aggiornati Info file generalizzandone il contenuto
++ Fixato il colore del testo nello status box
++ Semplificata la funzione di aggiornamento
++ Modificata la licenza in lingua inglese
++ Aggiunto un avviso pre-installazione
++ Fixato errore di rinomina del file .toc negli addon che li rendevano inutilizzabili
++ Fixata Shoutbox
+
+________________________________________
+v2.0.0.0                                | 25-01-09
+________________________________________
+
++ Fixato un problema con la gestione della schermata di primo avvio
++ aggiunte nuove stringhe di lingua
++ fixato l'annullamento delle modifiche alla pagina di configurazione avanzata
++ Ricreata la struttura della webpage
+versione 2.0 rilasciata!
+
+________________________________________
+v1.9.0.0 [BETA]                         | 17-01-09
+________________________________________
+
++ Velocizzata la connessione dello status timer
++ Fix al sistema di primo avvio
++ Apportati fixes al timer 
++ modificata pesantemente la struttura del sorgente
++ modifiche estetiche e fix alle configurazioni 
++ fix alla selezione del realmlist.
++ Aggiunte stringhe lingua per la cancellazione cache
++ implementato sistema per la gestione delle path e di variabili avanzate nella conf 
++ aggiunte alcune stringhe lingua
++ Modificata l'estetica
++ Aggiunta visualizzazione del realmlist selezionato nello status
++ Aggiunto sistema di traduzione tramite file ini con relative funzioni 
++ La locazione del navigator è ora gestibile tramite file ini
++ migliorata la gestione della trasparenza
++ fixato un problema con la lettura del XTrealmFile
++ altre modifiche e fixes
++ Pulizia codice
+
+________________________________________
+v1.7.7.0                                | 10-12-08
+________________________________________
+
++ Modificato algoritmo per l'installazione di hamachi , ora l'utente viene indirizzato al sito per scaricarlo
++ Aggiunta opzione extra per attivare/disabilitare il controllo per reti hamachi
++ Ottimizzata e ridefinita la funzione per il controllo degli spazi del Realmlist
++ Ottimizzato il controllo sulle opzioni di configurazione
++ Ottimizzato l'algoritmo per il trattamento del realmlist
++ Implementata opzione per l'avvio automatico della shoutbox all'apertura del launcher
++ Aggiunto un minipannello per gli extra al Launcher
++ Implementato controllo dello status del realm, con timer, direttamente tramite collegamento TCP
++ Aggiunta opzione per il Ping del realmlist scelto
++ Implementata funzione per il riconoscimento intelligente della sintassi del realmlist ( host, porta e commento)
++ spostato l'opzione della chat nel pannello extra della form principale
++ Altri fix e migliorie varie al codice
++ Modificato .ini per evitare aggiornamenti da vecchie revisioni del launcher
++ Modificato nome del software in: Launcher-XT ( acronimo di ExTreme)
++ cominciato lavoro di generalizzazione della form del Launcher per poterlo distribuire globalmente.
+
+________________________________________
+v1.7.6.0                                |
+________________________________________
+
++ Implementato un sistema di shoutbox e newsbox per facilitare lo scambio di informazioni tramite la patch stessa
++ Implementato sistema per il salvataggio dei realmlists
++ Fixati alcuni bugs riguardanti l'impostazione del set realmlist e aggiunti diversi messaggi di avviso
++ Fixato un bug riguardante i futuri aggiornamenti della patch
++ Migliorata "a bit" la scelta delle impostazioni pre-selezionate
++ Fixati alcuni bugs riguardanti l'opzione trasparenza
+
+________________________________________
+v1.7.5.0                                |
+________________________________________
+
++ Sistema del controllo versione implementato per supportare diversi reami
++ Aggiunto label per il controllo della patch in uso nel server di azeroth tramite la finestra di configurazione del launcher
++ Aggiornato supporto per la versione 1.0.3.0 di hamachi
++ Alcune modifiche cosmetiche nella pagina di configurazione
+
+
+________________________________________
+v1.7.4.4                                |
+________________________________________
+
++ Modificato lo stile del launcher per supportare lo stile Windows XP e precedenti ( common-controls v6.0 , Manifest v1.0)
++ Aggiunte 2 nuove opzioni per hamachi nell'apposito menu'
++ Modificati alcuni messaggi di avviso per fornire supporto circa Hamachi
++ Aggiunti files e pulsante menu per visualizzare le informazioni relative alla patch
++ Fixati altri bugs minori
+
+________________________________________
+v1.7.4.2                                |
+________________________________________
+
++ Fixato problema di visualizzazione del menu configurazioni alle basse risoluzioni
++ Fixato altro bug relativo all'avviso di errata versione del client a mancata connessione ad internet
+
+________________________________________
+v1.7.4.0                                |
+________________________________________
+
+
++ Inserita categoria delle impostazioni generali per settare automaticamente il tipo di configurazioni a seconda delle proprie esigenze
++ Aggiunti quindi i pulsanti AzerothShard, blizzard e personale e il relativo pulsante per le info
++ Implementato sistema per cambiare direttamente usando il Launcher il reame di AzerothShard all'avvio del gioco
++ Implementato sistema di "primo avvio" che richiede di scegliere le configurazioni preferite
++ Aggiunti collegamenti e nuova pagina principale per il secondo reame di AzerothShard
++ Completamente modificata la finestra di configurazione secondo gli standard universali
+- Eliminato l'avviso di pulitura cache all'avvio di w.o.w quando questa e' impostata nelle configurazioni
++ Implementato sistema di riconoscimento lingua del client che viene visualizzata nel label di versione.
++ Modificati TUTTI i messaggi di avviso secondo gli standard universali
++ Molteplici aggiunte/modifiche cosmetiche
++ Raggruppate opzioni per il client in un submenu
++ Aggiunta opzione per la cancellazione manuale della cache
++ Fixato bug relativo all'avviso di errata versione del client a mancata connessione ad internet
++ Pulitura Codice e modifiche per l' Eol Style
++ Fixato bug relativo all'errore di calcolo all'avvio del launcher in particolari casi di errore durante l'installazione
++ Altre modifiche non registrate
+
+________________________________________
+v1.7.2.0                                |
+________________________________________
+
++ Aggiornato Launcher e addons per la versione 2.4.2
++ Inserita immagine di sfondo
++ Implementato sistema di salvataggio della trasparenza
++ Fixato problema con la modalita' di disinstallazione dell'applicazione
++ Modifiche minori non registrate
+
+
+________________________________________
+v1.7.0.0                                |
+________________________________________
+
++ Aggiunto menu configurazioni grafico , sostituito alla modifica tramite file di testo
++ Aggiunta opzione per attivare/disattivare i controlli extra ( lasciarla attiva preferibilmente)
++ Aggiunta modalita' trasparenza per l'applicazione ( da implementare il salvataggio della configurazione)
++ Aggiunte verifiche del realmlist , controllo del realmlist di azerothshard dal web e altre feature importanti.
++ Aggiunta opzione riavvio automatico del launcher e refresh della pagina web
++ Fixato supporto multilingua
++ Rinominata l'applicazione da Launcher.exe a Launcher-XT.exe per evitare conflitti con il client di w.o.w
++ Altri Fixes importanti..
+
+________________________________________
+v1.6.6.0                                |
+________________________________________
+
++ Aggiunta funzione di delete automatica dei vecchi addons Systemchat e flagRsp2.
+
+________________________________________
+v1.6.5.0                                |
+________________________________________
+
++ Aggiunto controllo della versione Client e Launcher.
++ Aggiunti duplici controlli per la verifica della directory di installazione per installer e launcher.
++ Semplificato il processo di installazione AddOns, prego eliminare i vecchi SystemChat e FlagRsp2 Addons.
++ Aggiunta opzione per il repair del client.
++ Aggiunta opzione per l'aggiornamento automatico o manuale del client.
++ Spostato il pulsante chat in opzioni.
++ Aggiunta opzione per scaricare la AzerothPatch.
++ modificato il rename del launcher offy
+
+________________________________________
+v1.4                                    |
+________________________________________
+
++ Modifica dei colori della systemchat
++ Controllo del processo Hamachi all'avvio
++ Aggiunto Copyright
++ Inizio implementazione completa supporto multilingue 
++ Fix: Riparata la cancellazione della cache
++ Implementato pulsante Opzioni del Launcher  
++ Svariati fixes al codice del launcher e della AzerothPatch
+
+________________________________________
+v1.3                                    |
+________________________________________
++ Alcune modifiche al Launcher
++ molteplici FIXes per le funzioni riguardanti gli addons ( adesso dovrebbero funzionare perfettamente) e ridefinite alcune finestre di dialogo
++ Modificato il realmlist con ip diretto ad hamachi ( dovrebbe ridurre la latenza in game)
++ Inseriti Changelogs 
+
+
+________________________________________
+v1.2                                    |
+________________________________________
+
+
++ Attivata Compressione Massima per il pacchetto di installazione
+( patch ridotta di circa 6 mb)
++ Ridefinita la copia dei file su disco
++ Ridefinita la struttura degli script
++ Implementato sistema di cancellazione/sovrascrittura/backup degli addons 
++ Implementato sistema di riconoscimento percorso di installazione del Client WoW Automatico
++ ridefinite le istruzioni per hamachi e file di licenza
+
+________________________________________
+v1.1                                    |
+________________________________________
+
++ Aggiunta funzione per rinominare realmlist.wtf e launcher.exe
++ Aggiunte funzioni per la verifica dei files installati
++ Fix per la versione dell'interfaccia addons
+________________________________________
+v1.0                                    |
+________________________________________
+
++ Primo test di copia dei files
++ Compressione dei files del setup
++ Struttura script installazione base completata
++ Preparazione per la AzerothShard Patch per il client v 2.3.3 di W.O.W
