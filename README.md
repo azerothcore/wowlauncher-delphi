@@ -10,7 +10,7 @@ http://udw.altervista.org/itawowdevelopers/viewtopic.php?p=145
 
 ### old description:
 
-![launcher](https://lh3.googleusercontent.com/-Aa75LUMG1B8/VsNmbYncvXI/AAAAAAAABTI/E-jCq55nvfE/w530-d-h352-p-rw/Schermata.png)
+![launcher](https://lh3.googleusercontent.com/ESSLWzpaxZPLFSQOq7HXVQfIxJ-SJFQnw3AhKhkBGa8FOPVmjnqQn8YxSZIrPMicnOy5=w1440-h900-rw-no)
 
 Launcher-XT is a new , very powerfull and free , launcher for W.o.W client:
 
